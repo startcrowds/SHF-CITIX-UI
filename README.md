@@ -15,7 +15,7 @@ API utilizadas:
 
 Para clonar el repositorio por favor digite el siguiente comando en el CLI: 
 
-git clone 
+git clone https://github.com/startcrowds/SHF-CITIX-UI.git
 
 Requisitos antes de instalar:
 
