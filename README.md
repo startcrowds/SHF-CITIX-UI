@@ -2,6 +2,11 @@
 
 Repositorio para la prueba de desarrollo de SHF by Ing. Elkin Nocua
 
+Datos de Usuario para Pruebas:
+
+- Usuario:    eve.holt@reqres.in
+- Contraseña: cityslicka
+
 API utilizadas:
 
 - Para login de acceso a usuarios: https://reqres.in/api/
